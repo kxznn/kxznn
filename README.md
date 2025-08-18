@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F1573&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68a7ca&height=140&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F1573&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Kauã+Aguiar;I'm+18+years;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=68a7ca&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Kauã+Aguiar;I'm+18+years;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kxznn&show_icons=true&count_private=true&hide_border=true&title_color=1F1573&icon_color=1F1573&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Aguiar github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxznn&layout=compact&hide_border=true&title_color=1F1573&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kxznn&show_icons=true&count_private=true&hide_border=true&title_color=68a7ca&icon_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Aguiar github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxznn&layout=compact&hide_border=true&title_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kxznn&bg_color=000000&color=1F1573&line=1F1573&point=544ABD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kxznn&bg_color=000000&color=68a7ca&line=68a7ca&point=68a7ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/kauxguiar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -45,5 +45,5 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=130C47&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68a7ca&height=140&section=footer"/>
 
