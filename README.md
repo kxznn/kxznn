@@ -49,4 +49,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68a7ca&height=140&section=footer"/>
 
 
-me ajude a voltar a funcionar esse codigo do readme do github
+
