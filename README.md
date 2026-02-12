@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=68a7ca&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Kauã+Aguiar;I'm+18+years;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kxznn&show_icons=true&count_private=true&hide_border=true&title_color=68a7ca&icon_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Aguiar github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxznn&layout=compact&hide_border=true&title_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kxznn&show_icons=true&count_private=true&hide_border=true&title_color=68a7ca&icon_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Aguiar github stats"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxznn&layout=compact&hide_border=true&title_color=68a7ca&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
